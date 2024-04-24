@@ -1,2 +1,37 @@
-# on34-python
-Centralização de informações e repositórios da turma On34 - Python
+<h1 align="center">
+  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+</h1>
+
+# Turma Online On34 | Python 
+* Aula inaugural: 27 de maio de 2024
+* Apresentação dos projetos finais: 13 de outubro de 2024
+* Formatura: 15 de outubro de 2024
+
+## MÓDULO 0 - Bem-vinda à Reprograma
+#### Semana de integração (institucional, guia da aluna, ferramentas e metodologias àgeis)
+
+## MÓDULO 1 - Fundamentos da linguagem Python
+#### [SEMANA 01 - Conceitos iniciais e versionamento de código](https://github.com/reprograma/on34-python-s01-conceitos-iniciais)
+#### [SEMANA 02 - Variáveis, tipos, operadores e funções](https://github.com/reprograma/on34-python-s04-logica-I)
+#### [SEMANA 03 - Condicionais, operadores lógicos, erros e exceções](https://github.com/reprograma/on34-python-s04-logica-II)
+#### [SEMANA 04 - Loops e estruturas de dados](https://github.com/reprograma/on34-python-s04-logica-III)
+#### [SEMANA 05 - Projeto guiado #1](https://github.com/reprograma/on34-python-s05-projeto-guiado-I)
+
+## MÓDULO 2 - Lidando com dados
+#### [SEMANA 06 - Lidando com arquivos, pacotes e módulos](https://github.com/reprograma/on34-python-s06-arquivos-pacotes-modulos)
+#### [SEMANA 07 - Lidando com banco de dados](https://github.com/reprograma/on34-python-s07-banco-de-dados-I)
+#### [SEMANA 08 - Aprofundando em banco de dados relacional SQL ](https://github.com/reprograma/on34-python-s08-banco-de-dados-II)
+#### [SEMANA 09 - Tratamento de dados utilizando pandas e numpy - parte 1](https://github.com/reprograma/on34-python-s09-pandas-numpy-I)
+#### [SEMANA 10 - Tratamento de dados utilizando pandas e numpy - parte 2](https://github.com/reprograma/on34-python-s10-pandas-numpy-II)
+#### [SEMANA 11 - Projeto guiado #2](https://github.com/reprograma/on34-python-s11-projeto-guiado-II)
+
+## MÓDULO 3 - Estatística, análise e visualização de dados
+#### [SEMANA 12 - Estatistica com python - probabilidade e amostragem](https://github.com/reprograma/on34-python-s12-estatistica-I)
+#### [SEMANA 13 - Estatistica com python - testes de hipóteses](https://github.com/reprograma/on34-python-s13-estatistica-II)
+#### [SEMANA 14 - Análise de dados do mundo real](https://github.com/reprograma/on34-python-s14-analise-de-dados)
+#### [SEMANA 15 - Visualização de dados](https://github.com/reprograma/on34-python-s15-visualizacao-de-dados)
+#### [SEMANA 16 - Dashboards com Tableau](https://github.com/reprograma/on34-python-s16-dashboard-tableau)
+
+## PROJETO FINAL
+#### [SEMANA 17 - Projeto Final - Parte 1](https://github.com/reprograma/on34-python-s17-projeto-final-I)
+#### [SEMANA 18 - Projeto Final - Parte 2](https://github.com/reprograma/on34-python-s17-projeto-final-II)
