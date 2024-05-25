@@ -34,4 +34,4 @@
 
 ## PROJETO FINAL
 #### [SEMANA 17 - Projeto Final - Parte 1](https://github.com/reprograma/on34-python-s17-projeto-final-I)
-#### [SEMANA 18 - Projeto Final - Parte 2](https://github.com/reprograma/on34-python-s17-projeto-final-II)
+#### [SEMANA 18 - Projeto Final - Parte 2](https://github.com/reprograma/on34-python-s18-projeto-final-II)
