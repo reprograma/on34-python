@@ -12,8 +12,8 @@
 
 ## MÓDULO 1 - Fundamentos da linguagem Python
 #### [SEMANA 01 - Conceitos iniciais e versionamento de código](https://github.com/reprograma/on34-python-s01-conceitos-iniciais)
-#### [SEMANA 02 - Variáveis, tipos, operadores e funções](https://github.com/reprograma/on34-python-s04-logica-I)
-#### [SEMANA 03 - Condicionais, operadores lógicos, erros e exceções](https://github.com/reprograma/on34-python-s04-logica-II)
+#### [SEMANA 02 - Variáveis, tipos, operadores e funções](https://github.com/reprograma/on34-python-s02-logica-I)
+#### [SEMANA 03 - Condicionais, operadores lógicos, erros e exceções](https://github.com/reprograma/on34-python-s03-logica-II)
 #### [SEMANA 04 - Loops e estruturas de dados](https://github.com/reprograma/on34-python-s04-logica-III)
 #### [SEMANA 05 - Projeto guiado #1](https://github.com/reprograma/on34-python-s05-projeto-guiado-I)
 
