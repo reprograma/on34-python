@@ -15,6 +15,7 @@
 #### [SEMANA 02 - Variáveis, tipos, operadores e funções](https://github.com/reprograma/on34-python-s02-logica-I)
 #### [SEMANA 03 - Condicionais, operadores lógicos, erros e exceções](https://github.com/reprograma/on34-python-s03-logica-II)
 #### [SEMANA 04 - Loops e estruturas de dados](https://github.com/reprograma/on34-python-s04-logica-III)
+#### [REVISÃO - Semanas 01 a 03 - Git, Github e Python](https://github.com/reprograma/on33-on34-on35-python-s04-revisao-modulo-I/)
 #### [SEMANA 05 - Projeto guiado #1](https://github.com/reprograma/on34-python-s05-projeto-guiado-I)
 
 ## MÓDULO 2 - Lidando com dados
