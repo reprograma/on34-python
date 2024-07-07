@@ -19,16 +19,16 @@
 #### [SEMANA 05 - Projeto guiado #1](https://github.com/reprograma/on34-python-s05-projeto-guiado-I)
 
 ## MÓDULO 2 - Lidando com dados
-#### [SEMANA 06 - Lidando com arquivos, pacotes e módulos](https://github.com/reprograma/on34-python-s06-arquivos-pacotes-modulos)
+#### [SEMANA 06 - Lidando com arquivos, planilhas e módulos](https://github.com/reprograma/on34-python-s06-arquivos-planilhas-modulos)
 #### [SEMANA 07 - Lidando com banco de dados](https://github.com/reprograma/on34-python-s07-banco-de-dados-I)
 #### [SEMANA 08 - Aprofundando em banco de dados relacional SQL ](https://github.com/reprograma/on34-python-s08-banco-de-dados-II)
-#### [SEMANA 09 - Tratamento de dados utilizando pandas e numpy - parte 1](https://github.com/reprograma/on34-python-s09-pandas-numpy-I)
-#### [SEMANA 10 - Tratamento de dados utilizando pandas e numpy - parte 2](https://github.com/reprograma/on34-python-s10-pandas-numpy-II)
-#### [SEMANA 11 - Projeto guiado #2](https://github.com/reprograma/on34-python-s11-projeto-guiado-II)
+#### [SEMANA 09 - Estatística com python - probabilidade e amostragem](https://github.com/reprograma/on34-python-s09-estatistica-I)
+#### [SEMANA 10 - Estatística com python - testes de hipóteses](https://github.com/reprograma/on34-python-s10-estatistica-II)
+#### [SEMANA 11 - Tratamento de dados utilizando pandas e numpy - parte 1](https://github.com/reprograma/on34-python-s11-pandas-numpy-I)
+#### [SEMANA 12 - Tratamento de dados utilizando pandas e numpy - parte 2](https://github.com/reprograma/on34-python-s12-pandas-numpy-II)
+#### [SEMANA 13 - Projeto guiado #2](https://github.com/reprograma/on34-python-s13-projeto-guiado-II)
 
-## MÓDULO 3 - Estatística, análise e visualização de dados
-#### [SEMANA 12 - Estatistica com python - probabilidade e amostragem](https://github.com/reprograma/on34-python-s12-estatistica-I)
-#### [SEMANA 13 - Estatistica com python - testes de hipóteses](https://github.com/reprograma/on34-python-s13-estatistica-II)
+## MÓDULO 3 - Análise e visualização de dados
 #### [SEMANA 14 - Análise de dados do mundo real](https://github.com/reprograma/on34-python-s14-analise-de-dados)
 #### [SEMANA 15 - Visualização de dados](https://github.com/reprograma/on34-python-s15-visualizacao-de-dados)
 #### [SEMANA 16 - Dashboards com Tableau](https://github.com/reprograma/on34-python-s16-dashboard-tableau)
