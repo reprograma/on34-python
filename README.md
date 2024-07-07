@@ -8,7 +8,7 @@
 * Formatura: 15 de outubro de 2024
 
 ## MÓDULO 0 - Bem-vinda à Reprograma
-#### Semana de integração (institucional, guia da aluna, ferramentas e metodologias àgeis)
+#### Semana de integração (institucional, guia da aluna, ferramentas e metodologias)
 
 ## MÓDULO 1 - Fundamentos da linguagem Python
 #### [SEMANA 01 - Conceitos iniciais e versionamento de código](https://github.com/reprograma/on34-python-s01-conceitos-iniciais)
