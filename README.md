@@ -34,5 +34,4 @@
 #### [SEMANA 16 - Dashboards com Tableau](https://github.com/reprograma/on34-python-s16-dashboard-tableau)
 
 ## PROJETO FINAL
-#### [SEMANA 17 - Projeto Final - Parte 1](https://github.com/reprograma/on34-python-s17-projeto-final-I)
-#### [SEMANA 18 - Projeto Final - Parte 2](https://github.com/reprograma/on34-python-s18-projeto-final-II)
+#### [SEMANA 17 e 18 - Projeto Final - Parte 1](https://github.com/reprograma/on34-python-s17-s18-projeto-final)
